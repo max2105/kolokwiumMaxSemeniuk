@@ -1,2 +1,7 @@
 Zmiana01
+<<<<<<< HEAD
 Zmiana03
+=======
+Zmiana02
+zmiana03
+>>>>>>> prostaWersja
