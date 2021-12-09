@@ -2,3 +2,4 @@ Zmiana02
 zmiana04
 zmiana05
 zmiana06
+zmiana08
